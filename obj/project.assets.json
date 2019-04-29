@@ -12081,11 +12081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/Madlibs.Solution/Madlibs/Madlibs.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/Madlibs/Madlibs.csproj",
       "projectName": "Madlibs",
-      "projectPath": "/Users/Guest/Desktop/Madlibs.Solution/Madlibs/Madlibs.csproj",
+      "projectPath": "/Users/Guest/Desktop/Madlibs/Madlibs.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/Madlibs.Solution/Madlibs/obj/",
+      "outputPath": "/Users/Guest/Desktop/Madlibs/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
