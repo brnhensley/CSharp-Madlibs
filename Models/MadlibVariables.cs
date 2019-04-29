@@ -15,7 +15,6 @@ namespace Madlibs.Models
     public string Adjective { get => _adjective; set => _adjective = value;}
     public string Noun2 { get => _noun2; set => _noun2 = value;}
     public string Adverb { get => _adverb; set => _adverb = value;}
-
   }
 
   public class MadlibPizzaVariables
